@@ -1,0 +1,23 @@
+{
+  "id": "ef035bec-b5c1-47d5-9203-e421a0959ad8",
+  "name": "FIN365BusManRC",
+  "publisher": "Otto Szekera",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.24623.24755",
+  "idRange": {
+    "from": 70700000,
+    "to": 70700099
+  },
+  "runtime": "2.0"
+}
