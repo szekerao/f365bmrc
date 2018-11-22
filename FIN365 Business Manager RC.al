@@ -1,4 +1,4 @@
-page 70700010 "FIN365 Business Manager RC"
+page 50110 "FIN365 Business Manager RC"
 {
     // version F365.RC1.W110.00
 

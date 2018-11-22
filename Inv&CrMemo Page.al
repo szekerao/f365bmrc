@@ -1,4 +1,4 @@
-page 70700005 "Inv&CrMemo Page"
+page 50105 "Inv&CrMemo Page"
 {
     // version F365.RC1.W110.00
 

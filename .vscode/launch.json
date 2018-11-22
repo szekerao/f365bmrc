@@ -8,7 +8,7 @@
             "server": "https://testbc-ita",
             "serverInstance": "NAV",
             "authentication": "UserPassword",
-            "startupObjectId": 70700010,
+            "startupObjectId": 50110,
             "startupObjectType": "Page",
             "breakOnError": true
         }

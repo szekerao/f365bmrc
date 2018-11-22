@@ -1,4 +1,4 @@
-page 70700001 "FIN365 Business Manager Cue"
+page 50101 "FIN365 Business Manager Cue"
 {
     // version F365.RC1.W110.00
 

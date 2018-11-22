@@ -1,4 +1,4 @@
-table 70700005 "Inv/CrMemo Table"
+table 50105 "Inv/CrMemo Table"
 {
     // version F365.RC1.W110.00
 

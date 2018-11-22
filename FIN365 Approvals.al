@@ -1,4 +1,4 @@
-page 70700006 "FIN365 Approvals"
+page 50106 "FIN365 Approvals"
 {
     // version F365.RC1.W110.00
 
