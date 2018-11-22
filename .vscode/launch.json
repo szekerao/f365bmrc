@@ -4,11 +4,11 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Test Environment",
-            "server": "https://bctest1",
+            "name": "testbc-ita",
+            "server": "https://testbc-ita",
             "serverInstance": "NAV",
             "authentication": "UserPassword",
-            "startupObjectId": 22,
+            "startupObjectId": 70700010,
             "startupObjectType": "Page",
             "breakOnError": true
         }

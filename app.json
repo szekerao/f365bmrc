@@ -1,6 +1,6 @@
 {
   "id": "ef035bec-b5c1-47d5-9203-e421a0959ad8",
-  "name": "FIN365BusManRC",
+  "name": "FIN365 Busuness Manager Role Center",
   "publisher": "Otto Szekera",
   "brief": "",
   "description": "",
@@ -14,7 +14,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "13.0.0.0",
-  "application": "13.0.24623.24755",
+  "application": "13.0.0.0",
   "idRange": {
     "from": 70700000,
     "to": 70700099
